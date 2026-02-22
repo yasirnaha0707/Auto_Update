@@ -1,4 +1,4 @@
 Version=1.0.7
-Files=prosoft.exe
+Files=prosoft.exe,account_master.pbd,main.pbd,pro_ledger.pbd,prosoft.pbd,purchase.pbd,quotation.pbd,registration.pbd,service.pbd,stocks.pbd
 DownloadURL=https://raw.githubusercontent.com/yasirnaha0707/Auto_Update/prosoft/
 
