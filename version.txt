@@ -1,4 +1,4 @@
-Version=1.6
-Files=prosoft.exe
+Version=1.7
+Files=prosoft.exe,account_master.pbd
 DownloadURL=https://raw.githubusercontent.com/yasirnaha0707/Auto_Update/main/
 
