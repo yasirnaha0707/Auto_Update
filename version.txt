@@ -1,4 +1,4 @@
-Version=1.5
+Version=1.6
 Files=prosoft.exe
 DownloadURL=https://raw.githubusercontent.com/yasirnaha0707/Auto_Update/main/
 
